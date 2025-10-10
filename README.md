@@ -1,7 +1,7 @@
 # Hi, I'm Hannah Pagade 👋
 
 ## 🚀 About Me
-Software Developer with a history in Software Development, transitioning into AI and Healthcare Technology. Currently pursuing MS in Computer Science (AI/ML) at University of Colorado Boulder, building projects at the intersection of artificial intelligence and healthcare innovation.
+Healthcare Leader with a history in Software Development, transitioning into AI and Healthcare Technology. Currently pursuing MS in Computer Science (AI/ML) at University of Colorado Boulder, building projects at the intersection of artificial intelligence and healthcare innovation.
 
 ## 💼 What I'm Working On
 - 🏥 Building AI-powered healthcare solutions
